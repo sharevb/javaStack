@@ -1,0 +1,19 @@
+{
+  "name": "javastack.js",
+  "version": "1.0.2",
+  "description": "A simple and easy library for highlighting Java stack traces",
+  "main": "javaStack.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharevb/javaStack.git"
+  },
+  "author": "ShareVB",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/sharevb/javaStack/issues"
+  },
+  "homepage": "https://github.com/sharevb/javaStack#readme"
+}
