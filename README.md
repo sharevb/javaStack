@@ -1,8 +1,8 @@
 # javaStack.js
-[![npm](https://img.shields.io/npm/v/jsstack.js.svg)](https://www.npmjs.com/package/jsstack.js)
+[![npm](https://img.shields.io/npm/v/javastack.js.svg)](https://www.npmjs.com/package/javastack.js)
 ![license](https://img.shields.io/hexpm/l/plug.svg?style=flat-square)
 
-A simple and easy library for highlighting JavaScript stack traces
+A simple and easy library for highlighting Java stack traces
 
 #### Demo
 <img src="example.png" alt="javaStack.js - demo" width="700" />

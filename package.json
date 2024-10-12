@@ -1,6 +1,6 @@
 {
   "name": "javastack.js",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A simple and easy library for highlighting Java stack traces",
   "main": "javaStack.js",
   "scripts": {
